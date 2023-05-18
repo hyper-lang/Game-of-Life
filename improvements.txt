@@ -1,0 +1,5 @@
+1. Threading
+2. Handling invalid imports
+3. Exporting files
+4. GUI
+5. Changing frame rates/optimizing speed
